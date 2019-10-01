@@ -2,7 +2,7 @@
 
 Este texto será mi descripción.
 
-Materiales:
+Materiales utilizados:
 
  - Arduino.
  - LED
